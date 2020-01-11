@@ -73,7 +73,7 @@
         {
           "name": "Georgia",
           "abbreviation": "UGA",
-          "prestige": "88",
+          "prestige": "91",
           "state": "Georgia",
           "rival": "UF",
           "headCoach": 
@@ -97,7 +97,7 @@
         {
           "name": "Florida",
           "abbreviation": "UF",
-          "prestige": "91",
+          "prestige": "86",
           "state": "Florida",
           "rival": "UGA",
           "headCoach": 
@@ -241,7 +241,7 @@
         {
           "name": "Auburn",
           "abbreviation": "AUB",
-          "prestige": "82",
+          "prestige": "86",
           "state": "Alabama",
           "rival": "BAMA",
           "headCoach": 
@@ -297,7 +297,7 @@
         {
           "name": "Michigan",
           "abbreviation": "MICH",
-          "prestige": "96",
+          "prestige": "90",
           "state": "Michigan",
           "rival": "OSU",
           "headCoach": 
@@ -393,7 +393,7 @@
         {
           "name": "Wisconsin",
           "abbreviation": "WIS",
-          "prestige": "83",
+          "prestige": "85",
           "state": "Wisconsin",
           "rival": "MINN",
           "headCoach": 
@@ -417,7 +417,7 @@
         {
           "name": "Minnesota",
           "abbreviation": "MINN",
-          "prestige": "68",
+          "prestige": "80",
           "state": "Minnesota",
           "rival": "WIS",
           "headCoach": 
@@ -441,7 +441,7 @@
         {
           "name": "Notre Dame",
           "abbreviation": "ND",
-          "prestige": "93",
+          "prestige": "90",
           "state": "Indiana",
           "rival": "MSU",
           "headCoach": 
@@ -465,7 +465,7 @@
         {
           "name": "Nebraska",
           "abbreviation": "NEB",
-          "prestige": "89",
+          "prestige": "75",
           "state": "Nebraska",
           "rival": "PSU",
           "headCoach": 
@@ -569,7 +569,7 @@
         {
           "name": "Texas",
           "abbreviation": "UT",
-          "prestige": "95",
+          "prestige": "90",
           "state": "Texas",
           "rival": "OU",
           "headCoach": 
@@ -641,7 +641,7 @@
         {
           "name": "Baylor",
           "abbreviation": "BAYL",
-          "prestige": "69",
+          "prestige": "80",
           "state": "Texas",
           "rival": "TCU",
           "headCoach": 
@@ -793,7 +793,7 @@
         {
           "name": "Clemson",
           "abbreviation": "CLEM",
-          "prestige": "92",
+          "prestige": "98",
           "state": "South Carolina",
           "rival": "SCAR",
           "headCoach": 
@@ -841,7 +841,7 @@
         {
           "name": "Virginia Tech",
           "abbreviation": "VT",
-          "prestige": "81",
+          "prestige": "79",
           "state": "Virginia",
           "rival": "UVA",
           "headCoach": 
@@ -889,7 +889,7 @@
         {
           "name": "Florida State",
           "abbreviation": "FSU",
-          "prestige": "88",
+          "prestige": "82",
           "state": "Florida",
           "rival": "MIA",
           "headCoach": 
@@ -913,7 +913,7 @@
         {
           "name": "Miami",
           "abbreviation": "MIA",
-          "prestige": "86",
+          "prestige": "80",
           "state": "Florida",
           "rival": "FSU",
           "headCoach": 
@@ -961,7 +961,7 @@
         {
           "name": "Georgia Tech",
           "abbreviation": "GT",
-          "prestige": "78",
+          "prestige": "69",
           "state": "Georgia",
           "rival": "LOU",
           "headCoach": 
@@ -1009,7 +1009,7 @@
         {
           "name": "Virginia",
           "abbreviation": "UVA",
-          "prestige": "66",
+          "prestige": "78",
           "state": "Virginia",
           "rival": "VT",
           "headCoach": 
@@ -1065,7 +1065,7 @@
         {
           "name": "Oregon",
           "abbreviation": "ORE",
-          "prestige": "84",
+          "prestige": "87",
           "state": "Oregon",
           "rival": "ORST",
           "headCoach": 
@@ -1089,7 +1089,7 @@
         {
           "name": "Stanford",
           "abbreviation": "STAN",
-          "prestige": "85",
+          "prestige": "82",
           "state": "California",
           "rival": "CAL",
           "headCoach": 
@@ -1161,7 +1161,7 @@
         {
           "name": "USC",
           "abbreviation": "USC",
-          "prestige": "94",
+          "prestige": "88",
           "state": "California",
           "rival": "UCLA",
           "headCoach": 
@@ -1337,7 +1337,7 @@
         {
           "name": "Cincinnati",
           "abbreviation": "CIN",
-          "prestige": "62",
+          "prestige": "68",
           "state": "Ohio",
           "rival": "MEM",
           "headCoach": 
@@ -1361,7 +1361,7 @@
         {
           "name": "Memphis",
           "abbreviation": "MEM",
-          "prestige": "49",
+          "prestige": "70",
           "state": "Tennessee",
           "rival": "CIN",
           "headCoach": 
@@ -1409,7 +1409,7 @@
         {
           "name": "Temple",
           "abbreviation": "TEM",
-          "prestige": "57",
+          "prestige": "65",
           "state": "Pennsylvania",
           "rival": "CONN",
           "headCoach": 
@@ -1561,7 +1561,7 @@
         {
           "name": "Utah",
           "abbreviation": "UTAH",
-          "prestige": "74",
+          "prestige": "83",
           "state": "Utah",
           "rival": "BYU",
           "headCoach": 
@@ -2745,7 +2745,7 @@
         {
           "name": "Wake Forest",
           "abbreviation": "WF",
-          "prestige": "58",
+          "prestige": "65",
           "state": "North Carolina",
           "rival": "ECU",
           "headCoach": 
@@ -2777,7 +2777,7 @@
         {
           "name": "Missouri",
           "abbreviation": "MIZZ",
-          "prestige": "77",
+          "prestige": "70",
           "state": "Missouri",
           "rival": "ARK",
           "headCoach": 
@@ -2801,7 +2801,7 @@
         {
           "name": "Arkansas",
           "abbreviation": "ARK",
-          "prestige": "76",
+          "prestige": "66",
           "state": "Arkansas",
           "rival": "MIZZ",
           "headCoach": 
